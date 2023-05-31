@@ -1,13 +1,13 @@
 👋 Hi there! My name is Jennie!
 
-###About me:###
+### About me:
 🔭 I’m currently working on my portfolio, creating a showcase of my skills and projects.
 🌱 Eagerly learning and experimenting with three.js. The 3D world is fascinating!
 💬 Got a cozy game you love? Tell me about it! I'm always looking for new ones to try. 
 🎮 Currently playing Roots of Pacha by Soda Den.
 ⚡ Fun lie: I love spice! The spicier the food, the better. Bring on the heat!
 
-###Connect with me:###
+### Connect with me:
 📫 Let's connect on LinkedIn. I love meeting fellow coders and game enthusiasts.
 <div>
   <a href="https://www.linkedin.com/in/sonjennie/">
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-###Tech Stack:### 
+### Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,6 +28,7 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnnsn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=jnnsn&style=flat-square&color=blue" alt=""/>
 
 <!--
 **jnnsn/jnnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
