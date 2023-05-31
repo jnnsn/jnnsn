@@ -1,11 +1,11 @@
 👋 Hi there! My name is Jennie!
 
 ### About me:
-🔭 I’m currently working on my portfolio, creating a showcase of my skills and projects.
-🌱 Eagerly learning and experimenting with three.js. The 3D world is fascinating!
-💬 Got a cozy game you love? Tell me about it! I'm always looking for new ones to try. 
-🎮 Currently playing Roots of Pacha by Soda Den.
-⚡ Fun lie: I love spice! The spicier the food, the better. Bring on the heat!
+- 🔭 I’m currently working on my portfolio, creating a showcase of my skills and projects.
+- 🌱 Eagerly learning and experimenting with three.js. The 3D world is fascinating!
+- 💬 Got a cozy game you love? Tell me about it! I'm always looking for new ones to try. 
+- 🎮 Currently playing Roots of Pacha by Soda Den.
+- ⚡ Fun lie: I love spice! The spicier the food, the better. Bring on the heat! (Just kidding, I'm only ok with gallon of milk near me!)
 
 ### Connect with me:
 📫 Let's connect on LinkedIn. I love meeting fellow coders and game enthusiasts.
