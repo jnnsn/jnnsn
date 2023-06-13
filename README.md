@@ -3,16 +3,19 @@
 ### About me:
 <div>
   <div>
-  <img src="https://img.shields.io/badge/working%20on-my%20portfolio-brightgreen" />
+    <img src="https://img.shields.io/badge/working%20on-my%20portfolio-brightgreen" />
   </div>
   <div>
-  <img src="https://img.shields.io/badge/learning-three.js-blue" />
+    <img src="https://img.shields.io/badge/learning-three.js-blue" />
   </div>
-      <div>
-  <img src="https://img.shields.io/badge/listening%20to-take%20two-blueviolet" />
-      </div>
   <div>
-  <img src="https://img.shields.io/badge/playing-roots%20of%20pacha-9cf" />
+    <img src="https://img.shields.io/badge/listening%20to-take%20two-blueviolet" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/playing-roots%20of%20pacha-9cf" />
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/loves-boba%20and%20fried%20chicken-green" />
   </div>
 </div>
 
@@ -40,6 +43,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on my portfolio, creating a showcase of my skills and projects.
+- 🌱 Eagerly learning and experimenting with three.js. The 3D world is fascinating!
+- 💬 Got a cozy game you love? Tell me about it! I'm always looking for new ones to try.
+- 🎮 Currently playing Roots of Pacha by Soda Den.
+- ⚡ Fun lie: I love spice! The spicier the food, the better. Bring on the heat! (Just kidding, I'm only ok with gallon of milk near me!)
 
 Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnnsn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
