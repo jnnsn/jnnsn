@@ -8,8 +8,18 @@
 - ⚡ Fun lie: I love spice! The spicier the food, the better. Bring on the heat! (Just kidding, I'm only ok with gallon of milk near me!)
 
 <div>
+  <div>
+  <img src="https://img.shields.io/badge/currently%20working%20on-my%20portfolio-brightgreen" />
+  </div>
+  <div>
   <img src="https://img.shields.io/badge/learning-three.js-blue" />
+  </div>
+      <div>
   <img src="https://img.shields.io/badge/listening%20to-take%20two-blueviolet" />
+      </div>
+  <div>
+  <img src="https://img.shields.io/badge/playing-roots%20of%20pacha-9cf" />
+  </div>
 </div>
 
 ### Connect with me:
