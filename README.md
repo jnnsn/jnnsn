@@ -1,4 +1,4 @@
-👋 Hi there! My name is Jennie!
+### 👋 Hi there! My name is Jennie!
 
 ### About me:
 <div>
