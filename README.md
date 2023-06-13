@@ -6,6 +6,7 @@
 - 💬 Got a cozy game you love? Tell me about it! I'm always looking for new ones to try. 
 - 🎮 Currently playing Roots of Pacha by Soda Den.
 - ⚡ Fun lie: I love spice! The spicier the food, the better. Bring on the heat! (Just kidding, I'm only ok with gallon of milk near me!)
+<img src="https://img.shields.io/badge/listening%20to-take%20two-blueviolet" />
 
 ### Connect with me:
 📫 Let's connect on LinkedIn. I love meeting fellow coders and game enthusiasts.
