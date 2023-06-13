@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/working%20on-my%20portfolio-brightgreen" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/learning-three.js-blue" />
+    <img src="https://img.shields.io/badge/learning-three.js%20and%20python-blue" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/listening%20to-take%20two%20by%20bts-blueviolet" />
