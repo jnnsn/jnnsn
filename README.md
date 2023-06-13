@@ -20,7 +20,7 @@
 </div>
 
 ### Connect with me:
-📫 Let's connect on LinkedIn. I love meeting fellow coders and game enthusiasts.
+📫 Let's connect on LinkedIn. I love meeting fellow coders and game enthusiasts!
 <div>
   <a href="https://www.linkedin.com/in/sonjennie/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
