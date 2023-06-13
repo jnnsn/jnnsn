@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/learning-three.js-blue" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/listening%20to-take%20two-blueviolet" />
+    <img src="https://img.shields.io/badge/listening%20to-take%20two%20by%20bts-blueviolet" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/playing-roots%20of%20pacha-9cf" />
+    <img src="https://img.shields.io/badge/playing-roots%20of%20pacha%20by%20soda%20den-9cf" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/loves-boba%20and%20fried%20chicken-yellowgreen" />
