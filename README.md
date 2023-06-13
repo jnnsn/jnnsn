@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/playing-roots%20of%20pacha-9cf" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/loves-boba%20and%20fried%20chicken-green" />
+    <img src="https://img.shields.io/badge/loves-boba%20and%20fried%20chicken-yellowgreen" />
   </div>
 </div>
 
