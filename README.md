@@ -16,7 +16,7 @@
 </div>
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,sequelize,express,nodejs,materialui,styledcomponents,tailwind,threejs,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,sequelize,express,nodejs,materialui,styledcomponents,tailwind,threejs,figma,git,github,vscode&perline=10)](https://skillicons.dev)
 
 <!--
 **jnnsn/jnnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
