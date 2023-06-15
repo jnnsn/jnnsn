@@ -30,11 +30,6 @@
 ### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,sequelize,express,nodejs,webpack,materialui,styledcomponents,tailwind,threejs,figma,git,github,postman,vscode&perline=10)](https://skillicons.dev)
 
-Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnnsn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-Profile View
-<img src="https://komarev.com/ghpvc/?username=jnnsn&style=flat-square&color=blue" alt=""/>
 <!--
 **jnnsn/jnnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
