@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/learning-three.js%20and%20python-blue" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/listening%20to-take%20two%20by%20bts-blueviolet" />
+    <img src="https://img.shields.io/badge/listening%20to-a%20lot%20of%20keshi-blueviolet" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/playing-roots%20of%20pacha%20by%20soda%20den-9cf" />
