@@ -14,6 +14,9 @@
   <div>
     <img src="https://img.shields.io/badge/playing-roots%20of%20pacha%20by%20soda%20den-9cf" />
   </div>
+   <div>
+    <img src="https://img.shields.io/badge/reading-fourth%20wing%20by%20rebecca%20yarros-yellow" />
+  </div>
   <div>
     <img src="https://img.shields.io/badge/loves-boba%20and%20fried%20chicken-yellowgreen" />
   </div>
