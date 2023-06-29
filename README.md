@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/listening%20to-a%20lot%20of%20keshi-blueviolet" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/playing-roots%20of%20pacha%20by%20soda%20den-9cf" />
+    <img src="https://img.shields.io/badge/slowly%20playing-roots%20of%20pacha%20by%20soda%20den-9cf" />
   </div>
    <div>
     <img src="https://img.shields.io/badge/reading-fourth%20wing%20by%20rebecca%20yarros-9cf" />
