@@ -3,7 +3,7 @@
 ### About me:
 <div>
   <div>
-    <img src="https://img.shields.io/badge/working%20on-my%20portfolio-brightgreen" />
+    <img src="https://img.shields.io/badge/working%20on-my%20next%20project-brightgreen" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/learning-python-blue" />
