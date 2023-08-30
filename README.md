@@ -6,19 +6,19 @@
     <img src="https://img.shields.io/badge/working%20on-my%20portfolio-brightgreen" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/learning-three.js%20and%20python-blue" />
+    <img src="https://img.shields.io/badge/learning-python-blue" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/listening%20to-a%20lot%20of%20keshi-blueviolet" />
+    <img src="https://img.shields.io/badge/listening%20to-the%20barbie%20playlist-blueviolet" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/slowly%20playing-roots%20of%20pacha%20by%20soda%20den-9cf" />
+    <img src="https://img.shields.io/badge/slowly%20playing-bg3%20by%20larian%20studios-9cf" />
   </div>
    <div>
-    <img src="https://img.shields.io/badge/reading-fourth%20wing%20by%20rebecca%20yarros-lightpink" />
+    <img src="https://img.shields.io/badge/reading-the%20power%20of%20now%20by%20eckhart%20tolle-lightpink" />
   </div>
   <div>
-    <img src="https://img.shields.io/badge/loves-boba%20and%20fried%20chicken-yellowgreen" />
+    <img src="https://img.shields.io/badge/loves-pho%20and%20fried%20chicken-yellowgreen" />
   </div>
 </div>
 
